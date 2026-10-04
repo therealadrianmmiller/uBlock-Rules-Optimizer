@@ -88,3 +88,5 @@ Keep a copy of the original export; the script never modifies its input.
 ## Download:
 
 See Releases for zip containing both .py amd .exe
+
+Feel free to compile yourself with `pyinstaller --onefile ublock_rules_optimizer.py`, compiled .exe only included for convenience, but of course im a random guy to m,sot people on the internet
